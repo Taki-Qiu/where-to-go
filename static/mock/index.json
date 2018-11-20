@@ -1,0 +1,116 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "/static/images/5cacf42b59e91e02.jpg_750x200_9c0a77b0.jpg"
+    },
+    {
+      "id": "0002",
+      "imgUrl": "/static/images/664024556572fd02.jpg_750x200_ffe41025.jpg"
+    },
+    {
+      "id": "0003",
+      "imgUrl": "/static/images/2467595fffc3b302.jpg_750x200_cca13d51.jpg"
+    },
+    {
+      "id": "0004",
+      "imgUrl": "/static/images/da037478f37cf202.jpg_750x200_a02cf862.jpg"
+    },
+    {
+      "id": "0005",
+      "imgUrl": "/static/images/4a5551bbb189d902.jpg_750x200_25257467.jpg"
+    },
+    {
+      "id": "0006",
+      "imgUrl": "/static/images/30ffcf34e9819f02.jpg_750x200_736b7236.jpg"
+    },
+    {
+      "id": "0007",
+      "imgUrl": "/static/images/856f100069809e02.jpg_750x200_e3485a2b.jpg"
+    }],
+    "iconList": [{
+        "id": "0001",
+        "imgUrl": "/static/images/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0002",
+        "imgUrl": "/static/images/6f7d6e44963c9302.png",
+        "desc": "温泉"
+      }, {
+        "id": "0003",
+        "imgUrl": "/static/images/26ffa31b56646402.png",
+        "desc": "亲子游"
+      }, {
+        "id": "0004",
+        "imgUrl": "/static/images/c70f1e85ae4a4f02.png",
+        "desc": "自然风光"
+      }, {
+        "id": "0005",
+        "imgUrl": "/static/images/416c6ab3368d1f02.png",
+        "desc": "全部玩乐"
+      }, {
+        "id": "0006",
+        "imgUrl": "/static/images/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      }, {
+        "id": "0007",
+        "imgUrl": "/static/images/6f7d6e44963c9302.png",
+        "desc": "温泉"
+      }, {
+        "id": "0008",
+        "imgUrl": "/static/images/26ffa31b56646402.png",
+        "desc": "亲子游"
+      }, {
+        "id": "0009",
+        "imgUrl": "/static/images/416c6ab3368d1f02.png",
+        "desc": "全部玩乐"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "/static/images/2d7b45e94187416ea3.img.jpg_200x200_7b01f790.jpg",
+        "title": "长隆野生动物世界",
+        "desc": "广东省广州市番禺区迎宾路长隆旅游度假村旁",
+        "price": "209.5"
+      }, {
+        "id": "0002",
+        "imgUrl": "/static/images/ee3013caaa28ae7490.water.jpg_200x200_f052dfc4.jpg",
+        "title": "白水寨",
+        "desc": "广东省广州市增城市派潭镇白水寨风景名胜区",
+        "price": "51.7"
+      }, {
+        "id": "0003",
+        "imgUrl": "/static/images/898a2df8e97ac037a3.img.jpg_200x200_01aa5ea1.jpg",
+        "title": "广州正佳极地海洋世界",
+        "desc": "广东省广州市天河路228号正佳广场2楼",
+        "price": "55"
+      }, {
+        "id": "0004",
+        "imgUrl": "/static/images/a021cde25761c0aa3.img.jpg_200x200_7635f5ba.jpg",
+        "title": "长隆欢乐世界",
+        "desc": "广东省广州市番禺区长隆旅游度假区内",
+        "price": "172.1"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "/static/images/39c5ce9ff58609.jpg_r_640x214_efb90102.jpg",
+        "title": "粤西温泉必游",
+        "desc": "自驾粤西，寻找自己心仪的温泉池"
+      }, {
+        "id": "0002",
+        "imgUrl": "/static/images/56f7f4bd0493fe.jpg_r_640x214_f8c0994a.jpg",
+        "title": "签到广州长隆",
+        "desc": "来广州来长隆，就对了，就够了~"
+      }, {
+        "id": "0003",
+        "imgUrl": "/static/images/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+        "title": "广州必游TOP10",
+        "desc": "感受现代与传统相融合的广州"
+      }, {
+        "id": "0004",
+        "imgUrl": "/static/images/ceb228c55edbfa.jpg_r_640x214_0c00789e.jpg",
+        "title": "赏秋大搜罗",
+        "desc": "秋意渐浓，细数广州周边赏秋胜地"
+      }]
+  }
+}

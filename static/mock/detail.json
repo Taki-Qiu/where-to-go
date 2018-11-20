@@ -1,0 +1,26 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "长隆欢乐世界",
+    "bannerImg": "/static/images/a021cde25761c0aa3.img.jpg_600x330_a79a34ce.jpg",
+    "gallaryImgs": ["/static/images/1c524f5c6a89b592a3.img.jpg_350x240_a3704412.jpg","/static/images/1c573225ba27a0daa3.img.jpg_350x240_3066878c.jpg"],
+    "categoryList": [{
+        "title": "全票",
+        "children": [{
+          "title": "成人票"
+        }]
+      }, {
+        "title": "特殊人群票",
+        "children": [{
+          "title": "大学生票"
+        }]
+      }, {
+        "title": "套票",
+        "children": [{
+          "title": "家庭票"
+        }]
+      }, {
+        "title": "年卡"
+      }]
+  }
+}
